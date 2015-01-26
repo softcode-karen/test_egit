@@ -1,4 +1,5 @@
 <?php 
-	echo 'asdasdads';
-	$var = "asdadsad";
+	function test_conflict($id){
+		echo $id;
+	}
 ?>
