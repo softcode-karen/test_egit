@@ -1,5 +1,5 @@
 <?php 
 	function test_conflict($id){
-		echo $id;
+		echo $id . "asdasd";
 	}
 ?>
